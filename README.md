@@ -6,7 +6,7 @@ Description:
 
 Input Files:
 
-    qp_placer_8x8.c                  : C/C++ code
+    placer.c                         : C/C++ code
 
     toy1                             : Input file (for e.g. toy1) containing the placement problem in text format
 
@@ -17,7 +17,7 @@ Output Files:
    
 Compilation:
 
-    g++ qp_placer_8x8.c
+    g++ placer.c
     
 Execution:
 
